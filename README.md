@@ -1,0 +1,4 @@
+stardict
+========
+
+stardict for vietnammese
